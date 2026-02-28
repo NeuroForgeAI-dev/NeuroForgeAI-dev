@@ -62,7 +62,7 @@
 ## Connect With Us
 
 - **Superteam Earn:** [earn.superteam.fun](https://earn.superteam.fun)
-- **Twitter/X:** [@NeuroForgeAI](https://x.com/NeuroForgeAI)
+- **Twitter/X:** [@NForgeAI](https://x.com/NeuroForgeAI)
 - **GitHub:** [github.com/NeuroForgeAI-dev](https://github.com/NeuroForgeAI-dev)
 
 ---
