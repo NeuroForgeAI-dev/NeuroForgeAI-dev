@@ -7,7 +7,7 @@
 **AI Agents | Trading Bots | Smart Contract Tooling | Full-Stack Automation**
 
 [![Twitter](https://img.shields.io/badge/Twitter-@NeuroForgeAI-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://x.com/NeuroForgeAI)
-[![Superteam](https://img.shields.io/badge/Superteam-Earn-blueviolet?style=flat)](https://earn.superteam.fun)
+[![Superteam](https://img.shields.io/badge/Superteam-Earn-blueviolet?style=flat)](https://earn.superteam.fun/t/NeuroForgeAI-team)
 [![Discord](https://img.shields.io/badge/Discord-NeuroForge-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/)
 
 </div>
@@ -38,7 +38,7 @@ We design, build and deploy production-grade systems: from autonomous trading bo
 
 ```
 Languages:        TypeScript | Python | Rust | Solidity
-AI / ML:          GPT-5.3 | Claude 4.6 | Gemini 3.1 Pro | LangChain | CrewAI | OpenClaw
+AI / ML:          GPT-5.3 | Claude 4.6 | Gemini 3.1 | LangChain | CrewAI | OpenClaw 
 Blockchain:       Solana | Ethereum | Polygon | Polymarket CLOB
 Backend:          Node.js | Express | Next.js | FastAPI
 Data:             MongoDB | PostgreSQL | Redis
@@ -81,6 +81,7 @@ We work on:
 | Platform | Link |
 |---|---|
 | **Twitter / X** | [@NeuroForgeAI](https://x.com/NeuroForgeAI) |
-| **Superteam Earn** | [earn.superteam.fun](https://superteam.fun/earn/t/NeuroForgeAI-team) |
+| **Superteam Earn** | [@NeuroForgeAI-team](https://earn.superteam.fun/t/NeuroForgeAI-team) |
 | **GitHub** | [github.com/NeuroForgeAI-dev](https://github.com/NeuroForgeAI-dev) |
-| **Email** | DM via Twitter or platform chat |
+| **Email** | neuroforge2026@gmail.com DM via Twitter or platform chat |
+
