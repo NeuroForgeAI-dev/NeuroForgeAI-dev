@@ -6,13 +6,9 @@
 
 ## Recent Achievement
 
-**AI Learning Week Hackathon** | Krasnoyarsk, Russia | December 6-12, 2025
-
-- Recognized as **Top Team Captain** (3 captains awarded among 16 teams)
-- **Project:** AI Chatbot for MAX Platform (maxbonus.ru)
-- **Organized by:** Siberian Federal University (SFU) + Solution Factory
-- **Event Lead:** Anatoly Fomin (Solution Factory, ex-Microsoft)
-
+**AI Learning Week Hackathon** 
+AI Learning Week Hackathon | Global Remote |
+December 2025 и Organized by: International Technical Solution Factory.
 ---
 
 ## Our Team
