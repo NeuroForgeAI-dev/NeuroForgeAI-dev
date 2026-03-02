@@ -38,7 +38,7 @@ We design, build and deploy production-grade systems: from autonomous trading bo
 
 ```
 Languages:        TypeScript | Python | Rust | Solidity
-AI / ML:          GPT-4o | Claude 3.5 | Gemini 2.5 | LangChain | CrewAI
+AI / ML:          GPT-5.3 | Claude 4.6 | Gemini 3.1 Pro | LangChain | CrewAI | OpenClaw
 Blockchain:       Solana | Ethereum | Polygon | Polymarket CLOB
 Backend:          Node.js | Express | Next.js | FastAPI
 Data:             MongoDB | PostgreSQL | Redis
@@ -81,6 +81,6 @@ We work on:
 | Platform | Link |
 |---|---|
 | **Twitter / X** | [@NeuroForgeAI](https://x.com/NeuroForgeAI) |
-| **Superteam Earn** | [earn.superteam.fun](https://earn.superteam.fun) |
+| **Superteam Earn** | [earn.superteam.fun](https://superteam.fun/earn/t/NeuroForgeAI-team) |
 | **GitHub** | [github.com/NeuroForgeAI-dev](https://github.com/NeuroForgeAI-dev) |
 | **Email** | DM via Twitter or platform chat |
